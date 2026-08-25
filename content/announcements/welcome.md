@@ -3,7 +3,7 @@ title: Wedding Details
 date: 2027-01-15
 ---
 
-We'll have our wedding reception January 15, at x location at y time.
+There will be more details to come regarding the location and time of the wedding reception.
 
 With love,
 Brenden & Rachel

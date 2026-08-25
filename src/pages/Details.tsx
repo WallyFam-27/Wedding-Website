@@ -5,19 +5,19 @@ export function Details() {
   return (
     <article className="mx-auto max-w-2xl">
       <p className="text-center text-xs tracking-[0.32em] text-muted uppercase">
-        The celebration
+        We'll be sealed in the
       </p>
       <h1 className="mt-3 text-center font-display text-5xl font-medium text-ink">
-        Details
+        Lindon Temple
       </h1>
       <Flourish className="mt-6" />
 
       <section className="mt-12 space-y-2 text-center">
-        <h2 className="font-display text-3xl text-ink">When & where</h2>
+        <h2 className="font-display text-3xl text-ink">Reception</h2>
         <p className="text-lg text-muted">{formatWeddingDate()}</p>
         <p className="text-muted">{site.weddingTime}</p>
         <p className="pt-4 font-display text-2xl text-ink">{site.venue.name}</p>
-        <p className="text-muted">{site.venue.address}</p>
+        {/* <p className="text-muted">{site.venue.address}</p> */}
         <p className="text-muted">{site.venue.city}</p>
       </section>
 
@@ -38,7 +38,7 @@ export function Details() {
         </ol>
       </section>
 
-      <section className="mt-14 grid gap-10 sm:grid-cols-2">
+      {/* <section className="mt-14 grid gap-10 sm:grid-cols-2">
         <div>
           <h2 className="font-display text-2xl text-ink">Dress code</h2>
           <p className="mt-3 leading-relaxed text-muted">{site.dressCode}</p>
@@ -47,7 +47,7 @@ export function Details() {
           <h2 className="font-display text-2xl text-ink">Lodging</h2>
           <p className="mt-3 leading-relaxed text-muted">{site.lodging}</p>
         </div>
-      </section>
+      </section> */}
     </article>
   )
 }
