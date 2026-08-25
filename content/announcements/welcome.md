@@ -1,11 +1,9 @@
 ---
-title: We're getting married
-date: 2026-08-01
+title: Wedding Details
+date: 2027-01-15
 ---
 
-We are so happy to share that we are getting married, and we would love for you to be there.
-
-This page is where we will post the details that matter most — travel notes, weekend plans, and anything that changes along the way. Check back here as the date gets closer.
+We'll have our wedding reception January 15, at x location at y time.
 
 With love,
-Alex & Jordan
+Brenden & Rachel
