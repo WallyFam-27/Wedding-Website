@@ -7,5 +7,7 @@ We'll have our wedding reception on January 15, from 6-8 pm at 1136 W 700 S Plea
 
 We will also be having open houses in Georgia and Arizona. Details will be posted here as they are planned.
 
-With love,
+We hope to see you there!
+
+With love, 
 Brenden & Rachel
