@@ -2,7 +2,7 @@ export const site = {
   partnerOne: 'Brenden',
   partnerTwo: 'Rachel',
   weddingDateIso: '2027-01-15',
-  weddingTime: '10 AM',
+  weddingTime: '',
   tagline: 'with joyful hearts, we invite you to celebrate with us',
   venue: {
     // name: 'Church Building',

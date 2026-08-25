@@ -5,7 +5,7 @@ export function Details() {
   return (
     <article className="mx-auto max-w-2xl">
       <p className="text-center text-xs tracking-[0.32em] text-muted uppercase">
-        We'll be sealed in the
+        We be sealed in the
       </p>
       <h1 className="mt-3 text-center font-display text-5xl font-medium text-ink">
         Lindon Temple
