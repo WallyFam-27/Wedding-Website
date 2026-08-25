@@ -16,7 +16,7 @@ export function Home() {
 
   return (
     <div>
-      <section className="relative isolate min-h-[60svh] overflow-hidden lg:min-h-[90svh] md:min-h-[78svh]">
+      <section className="relative isolate min-h-[60svh] overflow-hidden md:min-h-[70svh] lg:min-h-[90svh] xl:min-h-[120svh]">
         <img
           src={heroPhoto}
           alt={`${site.partnerOne} and ${site.partnerTwo}`}
