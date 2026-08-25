@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+@theme {
+  --font-display: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Source Sans 3', ui-sans-serif, system-ui, sans-serif;
+  --color-paper: #f4efe6;
+  --color-paper-deep: #ebe3d4;
+  --color-ink: #2c2416;
+  --color-muted: #6d5e4c;
+  --color-sage: #5c6b52;
+  --color-sage-dark: #44503c;
+  --color-gold: #b08d57;
+  --color-blush: #c9a09a;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100svh;
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  background-image:
+    radial-gradient(ellipse at top, rgb(192 160 154 / 0.18), transparent 52%),
+    radial-gradient(ellipse at bottom right, rgb(92 107 82 / 0.1), transparent 46%);
+}
+
+::selection {
+  background: color-mix(in oklab, var(--color-sage) 28%, white);
+}
