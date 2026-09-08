@@ -1,5 +1,5 @@
 ---
-title: Wedding Details
+title: Reception Details
 date: 2027-01-15
 ---
 
