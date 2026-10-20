@@ -10,7 +10,7 @@ export const site = {
     city: 'Pleasant Grove, Utah',
   },
   schedule: [
-  //  { time: '6-8 PM', title: 'Reception' },
+    { time: '6-8 PM', title: 'Reception' },
   ],
   dressCode: 'Garden formal — earth tones and florals welcome.',
   lodging: 'A hotel block will be shared in an announcement once it is confirmed.',
