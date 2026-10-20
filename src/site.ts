@@ -2,19 +2,20 @@ export const site = {
   partnerOne: 'Brenden',
   partnerTwo: 'Rachel',
   weddingDateIso: '2027-01-15',
-  weddingTime: '',
+  weddingTime: '6-8 PM',
   tagline: 'with joyful hearts, we invite you to celebrate with us',
   venue: {
     // name: 'Church Building',
     name: 'The Church of Jesus Christ of Latter-day Saints',
     city: 'Pleasant Grove, Utah',
   },
-  schedule: [
-    { time: '6-8 PM', title: 'Reception' },
+  /*schedule activities: [
+  //  { time: '6-8 PM', title: 'Reception' },
   ],
   dressCode: 'Garden formal — earth tones and florals welcome.',
   lodging: 'A hotel block will be shared in an announcement once it is confirmed.',
 }
+*/
 
 export const coupleNames = `${site.partnerOne} & ${site.partnerTwo}`
 
