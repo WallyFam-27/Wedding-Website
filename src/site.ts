@@ -6,7 +6,7 @@ export const site = {
   tagline: 'with joyful hearts, we invite you to celebrate with us',
   venue: {
     // name: 'Church Building',
-    name: 'The Church of Jesus Christ of Latter-day Saints',
+    name: '1136 W 700 S,',
     city: 'Pleasant Grove, Utah',
   },
   schedule: [

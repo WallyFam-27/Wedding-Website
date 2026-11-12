@@ -15,8 +15,8 @@ export function Announcements() {
       </h1>
       <Flourish className="mt-6" />
       <p className="mx-auto mt-6 max-w-lg text-center text-muted">
-        News for the weekend lives here. We will add notes as plans come
-        together.
+        We are still planning details. Updates for the reception and open houses
+        can be found here as plans are finalized.
       </p>
 
       {announcements.length === 0 ? (
