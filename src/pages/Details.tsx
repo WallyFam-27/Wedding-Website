@@ -21,6 +21,7 @@ export function Details() {
         <p className="text-muted">{site.venue.city}</p>
       </section>
 
+      {/**
       <section className="mt-14">
         <h2 className="text-center font-display text-3xl text-ink">Schedule</h2>
         <ol className="mt-8 divide-y divide-ink/10 border-y border-ink/10">
@@ -37,6 +38,7 @@ export function Details() {
           ))}
         </ol>
       </section>
+      */}
 
       {/* <section className="mt-14 grid gap-10 sm:grid-cols-2">
         <div>
